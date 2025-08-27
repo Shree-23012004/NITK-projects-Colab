@@ -25,18 +25,3 @@ Here’s how it looks:
 
 ---
 
-## ⚙️ Installation
-Follow these steps to install and run the project locally:
-
-```bash
-# Clone the repo
-git clone https://github.com/<your-username>/<repo-name>.git
-
-# Move into the project folder
-cd <repo-name>
-
-# Install dependencies
-<installation-commands>
-
-# Run the project
-<run-command>
